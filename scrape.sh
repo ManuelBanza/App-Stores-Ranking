@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-countries=("us" "gb" "fr" "de" "it" "jp" "in" "br" "cn")
+countries=("pt" "gb" "fr" "de" "it" "es")
 play_store_collections=("TOP_FREE" "TOP_PAID" "GROSSING")
 app_store_collections=("TOP_FREE_IOS" "TOP_PAID_IOS" "TOP_GROSSING_IOS")
 
