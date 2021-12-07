@@ -31,7 +31,7 @@ yargs
                 })
                 .option("country", {
                     type: "string",
-                    default: "us"
+                    default: "pt"
                 })
                 .option("language", {
                     type: "string",
@@ -74,7 +74,7 @@ yargs
                 })
                 .option("country", {
                     type: "string",
-                    default: "us"
+                    default: "pt"
                 })
                 .option("num", {
                     type: "number",
